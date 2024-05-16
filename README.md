@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lokendra
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JS framework- React.js
+- 🌱 ReactJs Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
